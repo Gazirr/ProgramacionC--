@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\1 DAM\\0487 Entorno De Desenvolupamiento\\CalculadoraFuncional\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52B7FE1E-FE2B-4AF7-8E73-6FA22C563A35}|..\\UnityTestCalculator\\UnityTestCalculator.vcxproj|F:\\1 DAM\\0487 Entorno De Desenvolupamiento\\UnityTestCalculator\\UnitTestCalculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7162A5-58E2-4CF8-A5FE-19707AE1AF17}|CalculadoraFuncional.vcxproj|F:\\1 DAM\\0487 Entorno De Desenvolupamiento\\CalculadoraFuncional\\CalculadoraFuncional.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C7162A5-58E2-4CF8-A5FE-19707AE1AF17}|CalculadoraFuncional.vcxproj|solutionrelative:CalculadoraFuncional.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTestCalculator.cpp",
+              "DocumentMoniker": "F:\\1 DAM\\0487 Entorno De Desenvolupamiento\\UnityTestCalculator\\UnitTestCalculator.cpp",
+              "RelativeDocumentMoniker": "..\\UnityTestCalculator\\UnitTestCalculator.cpp",
+              "ToolTip": "F:\\1 DAM\\0487 Entorno De Desenvolupamiento\\UnityTestCalculator\\UnitTestCalculator.cpp",
+              "RelativeToolTip": "..\\UnityTestCalculator\\UnitTestCalculator.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T11:22:54.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculadoraFuncional.cpp",
+              "DocumentMoniker": "F:\\1 DAM\\0487 Entorno De Desenvolupamiento\\CalculadoraFuncional\\CalculadoraFuncional.cpp",
+              "RelativeDocumentMoniker": "CalculadoraFuncional.cpp",
+              "ToolTip": "F:\\1 DAM\\0487 Entorno De Desenvolupamiento\\CalculadoraFuncional\\CalculadoraFuncional.cpp",
+              "RelativeToolTip": "CalculadoraFuncional.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T07:54:18.148Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
