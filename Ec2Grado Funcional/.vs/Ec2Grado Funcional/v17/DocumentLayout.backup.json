@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\1 DAM\\0487 Entorno De Desenvolupamiento\\Ec2Grado Funcional\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6F60ED-F6DD-4D82-8030-4B6D43C014EC}|..\\TestingEq2GradoFuncional\\TestingEq2GradoFuncional.vcxproj|F:\\1 DAM\\0487 Entorno De Desenvolupamiento\\TestingEq2GradoFuncional\\TestingEq2GradoFuncional.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25B770C-3653-44A0-A157-224CB43D4EBB}|Ec2Grado Funcional.vcxproj|F:\\1 DAM\\0487 Entorno De Desenvolupamiento\\Ec2Grado Funcional\\Ec2Grado Funcional.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C25B770C-3653-44A0-A157-224CB43D4EBB}|Ec2Grado Funcional.vcxproj|solutionrelative:Ec2Grado Funcional.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ec2Grado Funcional.cpp",
+              "DocumentMoniker": "F:\\1 DAM\\0487 Entorno De Desenvolupamiento\\Ec2Grado Funcional\\Ec2Grado Funcional.cpp",
+              "RelativeDocumentMoniker": "Ec2Grado Funcional.cpp",
+              "ToolTip": "F:\\1 DAM\\0487 Entorno De Desenvolupamiento\\Ec2Grado Funcional\\Ec2Grado Funcional.cpp",
+              "RelativeToolTip": "Ec2Grado Funcional.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T07:28:07.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestingEq2GradoFuncional.cpp",
+              "DocumentMoniker": "F:\\1 DAM\\0487 Entorno De Desenvolupamiento\\TestingEq2GradoFuncional\\TestingEq2GradoFuncional.cpp",
+              "RelativeDocumentMoniker": "..\\TestingEq2GradoFuncional\\TestingEq2GradoFuncional.cpp",
+              "ToolTip": "F:\\1 DAM\\0487 Entorno De Desenvolupamiento\\TestingEq2GradoFuncional\\TestingEq2GradoFuncional.cpp*",
+              "RelativeToolTip": "..\\TestingEq2GradoFuncional\\TestingEq2GradoFuncional.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T11:22:40.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
